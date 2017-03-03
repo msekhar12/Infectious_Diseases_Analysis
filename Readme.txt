@@ -1,0 +1,1 @@
+This project analyzes the infectious disease data set. Please check the Ipython note book for more details.
